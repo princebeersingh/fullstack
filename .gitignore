@@ -1,0 +1,9 @@
+/client/node_modules
+/server/node_modules
+/server/.gitignore
+/client/.gitignore
+/client/.env
+/server/.env
+/client/public
+/server/package-lock.json
+/client/package-lock.json
